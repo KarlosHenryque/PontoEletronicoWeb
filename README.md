@@ -3,6 +3,7 @@ PONTO ELETRONICO WEB
   A responsabilidade principal do sistema é gerenciar o cadastro de usuários, oferecendo a opção de definir o papel de cada um, seja como administrador ou colaborador. Cada tipo de usuário possui uma tela personalizada, de acordo com suas funções e permissões. As informações dos usuários são armazenadas no banco de dados, permitindo que o administrador acesse e gere relatórios para a conferência de pontos de forma eficiente.  
 
 Apresentação do sistema para o Administrativo:
+
 PAGINA DE LOGIN:
 
  ![image](https://github.com/user-attachments/assets/c36b3774-fb6c-4ea2-9267-e70bcebff368)
